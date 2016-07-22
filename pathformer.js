@@ -1,19 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @dylanpeterson18
- Watch 210
-  Star 6,222
- Fork 517 maxwellito/vivus
- Code  Issues 3  Pull requests 3  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathvivus/src/pathformer.js
-5faa457  on Sep 13, 2015
-@maxwellito maxwellito Merge pull request #67 from TranscendOfSypherus/patch-2
-3 contributors @maxwellito @TranscendOfSypherus @pborreli
-RawBlameHistory     Executable File  241 lines (221 sloc)  7.37 KB
 'use strict';
 
 /**
@@ -254,5 +238,3 @@ Pathformer.prototype.parseAttr = function (element) {
   }
   return output;
 };
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
